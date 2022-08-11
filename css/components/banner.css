@@ -1,0 +1,39 @@
+.banner {
+  background-image: url(/landing/images/background.png);
+  height: 100px ;
+  background-size: cover;
+  background-position: center;
+  padding: 250px;
+}
+
+.container {
+  width: 80%;
+  margin:0 auto;
+}
+.container h1 {
+  color: #fff;
+  margin: 0;
+  font-size: 36px;
+}
+.container p {
+  color: rgb(199, 196, 196);
+  font-size: 22px;
+}
+
+ .btn-apply-now {
+  border: 2px solid #f4f6f9;
+  border-radius: 5px;
+  box-sizing: border-box;
+  box-shadow:0.5em 0.5em 1.5em 0.5em #22ef5c ;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 16px 32px;
+  background-color: transparent;
+  display: inline-block;
+  margin-top: 25px;
+}
+
+.btn-apply-now:hover {
+  font-size: 20px;
+}
